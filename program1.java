@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lab1 {
+public class program1 {
 
    public static void main (String [] args){
        System.out.println("enter a number of times you woulld like to know if a number is divisible by 10 or 15 ");

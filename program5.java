@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lab5{
+public class program5{
    public static void main (String []args){
       String S = "5 7 2 8 9 10 12 98 7 14 20 22";
       statistic (S);}

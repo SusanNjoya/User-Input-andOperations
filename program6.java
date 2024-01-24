@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class la6{
+public class program6{
    public static void main (String []args)throws FileNotFoundException{
       Scanner inFile = new Scanner(new File("input.txt"));
       String text;

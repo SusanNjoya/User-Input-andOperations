@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class lab7{
+public class program7{
    public static void main (String [] args){
    Scanner console = new Scanner (System.in);
       int menu;

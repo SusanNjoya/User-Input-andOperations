@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class lab9{
+public class program9{
    public static void main (String [] args){
    //given a number from 1-12, it returns the name of the appropriate month
    

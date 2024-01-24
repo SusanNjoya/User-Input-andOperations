@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class lab10{
+public class program10{
    public static void main (String [] args){
       
     try (Scanner scanner = new Scanner(System.in)) {
